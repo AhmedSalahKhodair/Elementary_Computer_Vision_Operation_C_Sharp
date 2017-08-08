@@ -1,0 +1,18 @@
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\bin\Debug\CVPackage.exe.config
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\obj\Debug\CVPackage.csprojResolveAssemblyReference.cache
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\obj\Debug\CVPackage.Form1.resources
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\obj\Debug\CVPackage.Properties.Resources.resources
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\obj\Debug\CVPackage.csproj.GenerateResource.Cache
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\bin\Debug\CVPackage.exe
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\bin\Debug\CVPackage.pdb
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\obj\Debug\CVPackage.exe
+c:\users\condaaa\documents\visual studio 2015\Projects\CVPackage\CVPackage\obj\Debug\CVPackage.pdb
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\bin\Debug\CVPackage.exe.config
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\obj\Debug\CVPackage.exe
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\obj\Debug\CVPackage.pdb
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\bin\Debug\CVPackage.exe
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\bin\Debug\CVPackage.pdb
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\obj\Debug\CVPackage.csprojResolveAssemblyReference.cache
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\obj\Debug\CVPackage.Form1.resources
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\obj\Debug\CVPackage.Properties.Resources.resources
+D:\FCIS\4th year materials\2nd semester\Computer Vision (Track)\Package\CVPackage\CVPackage\obj\Debug\CVPackage.csproj.GenerateResource.Cache
